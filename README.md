@@ -26,7 +26,7 @@ Com o objetivo de implementar melhorias no projeto entregue durante o processo a
   ### Organização de arquivos da Sprint 3:
 
 ```text
-sistema-motiva/
+sprint3-fiap-poo/
 ├── lib/
 │   └── ojdbc17.jar                      # Driver JDBC oficial do Oracle (Java 17+)
 ├── sql/
